@@ -76,7 +76,7 @@ def create_view():
 
 
 @app.route('/api/toggle/<int:task_id>/')
-def watch_view(task_id):
+def toggle_view(task_id):
     task = db.get_or_404(Task, task_id)
 
     if task.is_done:
