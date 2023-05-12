@@ -1,6 +1,8 @@
-# flask-todo
+# back4app-containers-python
 
-A simple RESTful API for tracking TODO tasks.
+This repository demonstrates how to dockerize and deploy a [Flask]([https://react.dev/](https://flask.palletsprojects.com/en/2.3.x/)) application to [Back4app Containers](https://www.back4app.com/container-as-a-service-caas).
+
+> To learn more check out the [article](x).
 
 ## Development
 
